@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Emre, based in London, UK!
 - 👀 I’m interested in iOS, Android and Flutter apps.
-- 🌱 I’m currently learning creating backend with Dart!
 - 💞️ I’m looking to collaborate on any mobile project.
 - 📫 Mail me, emrecanakcan1@gmail.com
 
